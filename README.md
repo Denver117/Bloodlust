@@ -7,4 +7,4 @@ Please do download Blender 2.78 from Steam to work on modeling this game.
 If you have suggestions, complaints, or questions please contact me at DeadlySoul119@gmail.com
 
 
-Money will be seperated with CONTRIBUTORS. Money will come from donations.
+Money will be seperated with COLLABORATORS. Money will come from donations.
