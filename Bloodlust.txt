@@ -9,6 +9,7 @@ Hidden Abilities:Yes
 Programmers:Seth Bender, and Levi Moore
 Rating:Teen
 Main Character:Den/Male/17/Caucasian/Swordsman
+Unique Weapons:Yes
 Saves:Yes
 Stages:5
 Party:Yes
