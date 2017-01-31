@@ -13,8 +13,8 @@ Saves:Yes
 Stages:5
 Party:Yes
 First Stage:Forest
-Second Stage Mini Boss:Goat/Chi
 Second Stage:Fire
+Second Stage Mini Boss:Goat/Chi
 Third Stage:Water
 Third Stage Mini Boss:Snake/Me
 Forth Stage:Light
