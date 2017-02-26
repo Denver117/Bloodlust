@@ -7,4 +7,4 @@ If you have suggestions, complaints, or questions please contact me at DeadlySou
 
 Money will be seperated with COLLABORATORS. Money will come from donations.
 
-Also for programming I will need you to download Microsoft Visual Studio Express 2013 for Windows desktop
+Also for programming I will need you to download Microsoft Visual Studio Express 2013 for Windows, or C::B 
