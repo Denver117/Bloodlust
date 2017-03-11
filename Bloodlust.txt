@@ -8,7 +8,7 @@ Currency:Yes
 Hidden Abilities:Yes
 Programmers:Seth Bender, and Levi Moore
 Rating:Teen
-Main Character:Den/Male/17/Caucasian/Choose Class
+Main Character:(Choose Name)/Male/17/Caucasian/Choose Class
 Class Choices: Range, Defense, High Damage
 Range 1st Weapon: Short Bow/Small Crossbow
 Defense 1st Weapon: Mace and Sheild/Heavy Armor and Battle Axe
