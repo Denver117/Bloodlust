@@ -10,9 +10,12 @@ Programmers:Seth Bender, and Levi Moore
 Rating:Teen
 Main Character:(Choose Name)/Male/17/Caucasian/Choose Class
 Class Choices: Range, Defense, High Damage
-Range 1st Weapon: Short Bow/Small Crossbow
-Defense 1st Weapon: Mace and Sheild/Heavy Armor and Battle Axe
-High Damage 1st Weapon: Short Sword/Small Axe
+Range 1st Weapon: Rotten Short Bow/Small Rotten Crossbow
+Range 1st Armour: Damaged Leather Armour/Damaged Leather Pants/Damaged Leather Gloves/Damaged Leather Hood
+Defense 1st Weapon: Rusty Mace/Rusty Battle Axe(2 Handed Weapon)
+Defense 1st Armour: Rusty Sheild (Only with 1 Handed Weapons)/Rusty Iron Armour/Rusty Iron Greaves/Rusty Iron Gloves/Rusty Iron Helmet
+High Damage 1st Weapon: 2 Rusty Short Swords/2 Small Rusty Axes
+High Damage 1st Armour: Damaged Copper Armour/Damaged Copper Greaves/Damaged Copper Gloves/Damaged Copper Helmet
 Unique Weapons:Yes
 Saves:Yes
 Stages:5
